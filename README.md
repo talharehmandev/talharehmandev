@@ -67,10 +67,4 @@ I combine **Flutter + Native iOS** to build powerful hybrid apps 🚀
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=talharehmandev&theme=dark&hide_border=false&layout=compact)
-
----
-
-✨ *Building clean, scalable, and production-ready mobile apps with passion.*
